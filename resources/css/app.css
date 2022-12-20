@@ -1,0 +1,8 @@
+.sing {
+    width: 25%;
+    display: inline-block;
+    border: 1px solid #d6d6d6c2;
+    background: #ffebee;
+    padding: 5px;
+    text-align: center;
+}
